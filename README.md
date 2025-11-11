@@ -690,16 +690,6 @@ Si ejecutas el pipeline y no se sincronizan productos:
 
 ---
 
-## 📚 Documentación Adicional
-
-- **Arquitectura detallada:** Ver `docs/04-modelado/ARQUITECTURA_DE_DATOS_TALLER.md`
-- **Migración API:** Ver `framework_docs/iniciales/SOLUCION-CONTENT-API.md`
-- **Setup inicial servidor:** Ver `framework_docs/iniciales/guia_inicial.md`
-- **Casos de uso:** Ver `docs/02-casos-uso/`
-- **Changelog:** Ver `export_pipeline/upload_to_merchant_api.py` (líneas 1-40)
-
----
-
 ## 📄 Licencia
 
 MIT - Ver LICENSE para más detalles
