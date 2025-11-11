@@ -1,0 +1,11 @@
+{
+  "TIENDA-001": {
+    "PROD-LOC-1": 10,
+    "PROD-LOC-2": 5,
+    "PROD-LOC-3": 12
+  },
+  "TIENDA-002": {
+    "PROD-LOC-1": 2,
+    "PROD-LOC-2": 7
+  }
+}
