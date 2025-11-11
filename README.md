@@ -10,16 +10,16 @@
 
 ## 📋 Tabla de Contenidos
 
-1. [Descripción General](#descripción-general)
-2. [Prerequisitos](#prerequisitos)
-3. [Configuración de Google Cloud](#configuración-de-google-cloud)
-4. [Configuración de Google My Business](#configuración-de-google-my-business)
-5. [Configuración de Google Merchant Center](#configuración-de-google-merchant-center)
-6. [Configuración de WordPress y WooCommerce](#configuración-de-wordpress-y-woocommerce)
-7. [Instalación y Setup](#instalación-y-setup)
-8. [Configuración del Pipeline](#configuración-del-pipeline)
-9. [Ejecución del Pipeline](#ejecución-del-pipeline)
-10. [Troubleshooting](#troubleshooting)
+1. [Descripción General](#-descripción-general)
+2. [Prerequisitos](#-prerequisitos)
+3. [Configuración de Google Cloud](#-configuración-de-google-cloud)
+4. [Configuración de Google My Business](#-configuración-de-google-my-business)
+5. [Configuración de Google Merchant Center](#-configuración-de-google-merchant-center)
+6. [Configuración de WordPress y WooCommerce](#-configuración-de-wordpress-y-woocommerce)
+7. [Instalación y Setup](#-instalación-y-setup)
+8. [Configuración del Pipeline](#-configuración-del-pipeline)
+9. [Ejecución del Pipeline](#️-ejecución-del-pipeline)
+10. [Troubleshooting](#-troubleshooting)
 
 ---
 
