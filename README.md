@@ -2,7 +2,6 @@
 
 **Sistema completo de exportación de catálogos desde WooCommerce a Google Merchant Center con soporte para Local Inventory Ads (LIA).**
 
-**Versión:** 2.2 (11 de noviembre de 2025)  
 **API:** Google Content API v2.1  
 **Lenguaje:** Python 3.8+  
 **Base de Datos:** MySQL/MariaDB + WordPress + WooCommerce
